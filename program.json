@@ -1,4 +1,6 @@
-[
+{
+  "data":
+    [
     {
       "id": "mon_morning",
       "name": "Jutarnji program",
@@ -499,4 +501,6 @@
       "startTime": "22:00",
       "endTime": "24:00"
     }
+
   ]
+}
