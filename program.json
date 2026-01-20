@@ -1,8 +1,8 @@
 {
-    [
+[
     {
       "id": "mon_morning",
-      "name": "Jutarnji programm",
+      "name": "Jutarnji progrmm",
       "description": "Buđenje uz lokalne vijesti, servisne informacije i dobru glazbu.",
       "imageUrl": "https://images.pexels.com/photos/735818/pexels-photo-735818.jpeg",
       "url": "https://www.noviradio.hr",
@@ -502,4 +502,5 @@
     }
   ]
 }
+
 
