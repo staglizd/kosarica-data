@@ -8,7 +8,7 @@
       "hosts": ["Antonio Šarić", "Danijela Djimoti"],
       "dayOfWeek": 1,
       "startTime": "06:00",
-      "endTime": "09:00",
+      "endTime": "09:00"
     },
     {
       "id": "mon_news",
@@ -19,7 +19,7 @@
       "hosts": ["Danijela Marić"],
       "dayOfWeek": 1,
       "startTime": "09:00",
-      "endTime": "10:00",
+      "endTime": "10:00"
     },
     {
       "id": "mon_mid_day",
@@ -30,7 +30,7 @@
       "hosts": [],
       "dayOfWeek": 1,
       "startTime": "10:00",
-      "endTime": "12:00",
+      "endTime": "12:00"
     },
     {
       "id": "mon_talk",
@@ -41,7 +41,7 @@
       "hosts": ["Božo Rebić"],
       "dayOfWeek": 1,
       "startTime": "12:00",
-      "endTime": "13:00",
+      "endTime": "13:00"
     },
     {
       "id": "mon_afternoon",
@@ -52,7 +52,7 @@
       "hosts": [],
       "dayOfWeek": 1,
       "startTime": "13:00",
-      "endTime": "17:00",
+      "endTime": "17:00"
     },
     {
       "id": "mon_evening",
@@ -63,7 +63,7 @@
       "hosts": ["Ivica Štorić"],
       "dayOfWeek": 1,
       "startTime": "17:00",
-      "endTime": "20:00",
+      "endTime": "20:00"
     },
     {
       "id": "mon_night",
@@ -74,7 +74,7 @@
       "hosts": [],
       "dayOfWeek": 1,
       "startTime": "20:00",
-      "endTime": "24:00",
+      "endTime": "24:00"
     },
 
     {
@@ -86,7 +86,7 @@
       "hosts": ["Danijela Djimoti", "Božo Rebić"],
       "dayOfWeek": 2,
       "startTime": "06:00",
-      "endTime": "09:00",
+      "endTime": "09:00"
     },
     {
       "id": "tue_sport",
@@ -97,7 +97,7 @@
       "hosts": ["Danijela Marić"],
       "dayOfWeek": 2,
       "startTime": "09:00",
-      "endTime": "10:00",
+      "endTime": "10:00"
     },
     {
       "id": "tue_mid_day",
@@ -108,7 +108,7 @@
       "hosts": [],
       "dayOfWeek": 2,
       "startTime": "10:00",
-      "endTime": "12:00",
+      "endTime": "12:00"
     },
     {
       "id": "tue_culture",
@@ -119,7 +119,7 @@
       "hosts": ["Antonio Šarić"],
       "dayOfWeek": 2,
       "startTime": "12:00",
-      "endTime": "13:00",
+      "endTime": "13:00"
     },
     {
       "id": "tue_afternoon",
@@ -130,7 +130,7 @@
       "hosts": [],
       "dayOfWeek": 2,
       "startTime": "13:00",
-      "endTime": "17:00",
+      "endTime": "17:00"
     },
     {
       "id": "tue_evening",
@@ -141,7 +141,7 @@
       "hosts": ["Ivica Storić"],
       "dayOfWeek": 2,
       "startTime": "17:00",
-      "endTime": "20:00",
+      "endTime": "20:00"
     },
     {
       "id": "tue_night",
@@ -152,7 +152,7 @@
       "hosts": [],
       "dayOfWeek": 2,
       "startTime": "20:00",
-      "endTime": "24:00",
+      "endTime": "24:00"
     },
     {
       "id": "wed_morning",
@@ -163,7 +163,7 @@
       "hosts": ["Antonio Šarić", "Danijela Djimoti"],
       "dayOfWeek": 3,
       "startTime": "06:00",
-      "endTime": "09:00",
+      "endTime": "09:00"
     },
     {
       "id": "wed_news",
@@ -174,7 +174,7 @@
       "hosts": ["Danijela Marić"],
       "dayOfWeek": 3,
       "startTime": "09:00",
-      "endTime": "10:00",
+      "endTime": "10:00"
     },
     {
       "id": "wed_mid_day",
@@ -185,7 +185,7 @@
       "hosts": [],
       "dayOfWeek": 3,
       "startTime": "10:00",
-      "endTime": "12:00",
+      "endTime": "12:00"
     },
     {
       "id": "wed_talk",
@@ -196,7 +196,7 @@
       "hosts": ["Božo Rebić"],
       "dayOfWeek": 3,
       "startTime": "12:00",
-      "endTime": "13:00",
+      "endTime": "13:00"
     },
     {
       "id": "wed_afternoon",
@@ -207,7 +207,7 @@
       "hosts": [],
       "dayOfWeek": 3,
       "startTime": "13:00",
-      "endTime": "17:00",
+      "endTime": "17:00"
     },
     {
       "id": "wed_evening",
@@ -218,7 +218,7 @@
       "hosts": ["Ivica Storić"],
       "dayOfWeek": 3,
       "startTime": "17:00",
-      "endTime": "20:00",
+      "endTime": "20:00"
     },
     {
       "id": "wed_night",
@@ -229,7 +229,7 @@
       "hosts": [],
       "dayOfWeek": 3,
       "startTime": "20:00",
-      "endTime": "24:00",
+      "endTime": "24:00"
     },
 
     {
@@ -241,7 +241,7 @@
       "hosts": ["Danijela Djimoti", "Božo Rebić"],
       "dayOfWeek": 4,
       "startTime": "06:00",
-      "endTime": "09:00",
+      "endTime": "09:00"
     },
     {
       "id": "thu_sport",
@@ -252,7 +252,7 @@
       "hosts": ["Danijela Marić"],
       "dayOfWeek": 4,
       "startTime": "09:00",
-      "endTime": "10:00",
+      "endTime": "10:00"
     },
     {
       "id": "thu_mid_day",
@@ -263,7 +263,7 @@
       "hosts": [],
       "dayOfWeek": 4,
       "startTime": "10:00",
-      "endTime": "12:00",
+      "endTime": "12:00"
     },
     {
       "id": "thu_city",
@@ -274,7 +274,7 @@
       "hosts": ["Antonio Šarić"],
       "dayOfWeek": 4,
       "startTime": "12:00",
-      "endTime": "13:00",
+      "endTime": "13:00"
     },
     {
       "id": "thu_afternoon",
@@ -285,7 +285,7 @@
       "hosts": [],
       "dayOfWeek": 4,
       "startTime": "13:00",
-      "endTime": "17:00",
+      "endTime": "17:00"
     },
     {
       "id": "thu_evening",
@@ -296,7 +296,7 @@
       "hosts": ["Ivica Storić"],
       "dayOfWeek": 4,
       "startTime": "17:00",
-      "endTime": "20:00",
+      "endTime": "20:00"
     },
     {
       "id": "thu_night",
@@ -307,7 +307,7 @@
       "hosts": [],
       "dayOfWeek": 4,
       "startTime": "20:00",
-      "endTime": "24:00",
+      "endTime": "24:00"
     },
 
     {
@@ -319,7 +319,7 @@
       "hosts": ["Antonio Šarić", "Danijela Djimoti"],
       "dayOfWeek": 5,
       "startTime": "06:00",
-      "endTime": "09:00",
+      "endTime": "09:00"
     },
     {
       "id": "fri_news",
@@ -330,7 +330,7 @@
       "hosts": ["Danijela Marić"],
       "dayOfWeek": 5,
       "startTime": "09:00",
-      "endTime": "10:00",
+      "endTime": "10:00"
     },
     {
       "id": "fri_mid_day",
@@ -341,7 +341,7 @@
       "hosts": [],
       "dayOfWeek": 5,
       "startTime": "10:00",
-      "endTime": "12:00",
+      "endTime": "12:00"
     },
     {
       "id": "fri_talk",
@@ -352,7 +352,7 @@
       "hosts": ["Božo Rebić"],
       "dayOfWeek": 5,
       "startTime": "12:00",
-      "endTime": "13:00",
+      "endTime": "13:00"
     },
     {
       "id": "fri_afternoon",
@@ -363,7 +363,7 @@
       "hosts": [],
       "dayOfWeek": 5,
       "startTime": "13:00",
-      "endTime": "17:00",
+      "endTime": "17:00"
     },
     {
       "id": "fri_evening",
@@ -374,7 +374,7 @@
       "hosts": ["Ivica Storić"],
       "dayOfWeek": 5,
       "startTime": "17:00",
-      "endTime": "21:00",
+      "endTime": "21:00"
     },
     {
       "id": "fri_night",
@@ -385,7 +385,7 @@
       "hosts": [],
       "dayOfWeek": 5,
       "startTime": "21:00",
-      "endTime": "24:00",
+      "endTime": "24:00"
     },
 
     {
@@ -397,7 +397,7 @@
       "hosts": ["Antonio Šarić"],
       "dayOfWeek": 6,
       "startTime": "07:00",
-      "endTime": "11:00",
+      "endTime": "11:00"
     },
     {
       "id": "sat_chill",
@@ -408,7 +408,7 @@
       "hosts": [],
       "dayOfWeek": 6,
       "startTime": "11:00",
-      "endTime": "16:00",
+      "endTime": "16:00"
     },
     {
       "id": "sat_local",
@@ -419,7 +419,7 @@
       "hosts": ["Danijela Djimoti"],
       "dayOfWeek": 6,
       "startTime": "16:00",
-      "endTime": "18:00",
+      "endTime": "18:00"
     },
     {
       "id": "sat_evening",
@@ -430,7 +430,7 @@
       "hosts": ["Božo Rebić"],
       "dayOfWeek": 6,
       "startTime": "18:00",
-      "endTime": "22:00",
+      "endTime": "22:00"
     },
     {
       "id": "sat_night",
@@ -441,7 +441,7 @@
       "hosts": [],
       "dayOfWeek": 6,
       "startTime": "22:00",
-      "endTime": "24:00",
+      "endTime": "24:00"
     },
 
     {
@@ -453,7 +453,7 @@
       "hosts": ["Danijela Marić"],
       "dayOfWeek": 7,
       "startTime": "08:00",
-      "endTime": "12:00",
+      "endTime": "12:00"
     },
     {
       "id": "sun_family",
@@ -464,7 +464,7 @@
       "hosts": [],
       "dayOfWeek": 7,
       "startTime": "12:00",
-      "endTime": "17:00",
+      "endTime": "17:00"
     },
     {
       "id": "sun_relax",
@@ -475,7 +475,7 @@
       "hosts": [],
       "dayOfWeek": 7,
       "startTime": "17:00",
-      "endTime": "19:00",
+      "endTime": "19:00"
     },
     {
       "id": "sun_evening",
@@ -486,7 +486,7 @@
       "hosts": ["Ivica Storić"],
       "dayOfWeek": 7,
       "startTime": "19:00",
-      "endTime": "22:00",
+      "endTime": "22:00"
     },
     {
       "id": "sun_night",
@@ -497,7 +497,6 @@
       "hosts": [],
       "dayOfWeek": 7,
       "startTime": "22:00",
-      "endTime": "24:00",
-    },
-
+      "endTime": "24:00"
+    }
   ]
