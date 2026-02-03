@@ -727,6 +727,17 @@
       "startTime": "16:00",
       "endTime": "16:03"
     },
+	{
+      "id": "thu_zupanijska_16",
+      "name": "Županijska kronika",
+      "description": "Najvažnije vijesti iz Zadra i Zadarske županije.",
+      "imageUrl": "https://images.pexels.com/photos/386148/pexels-photo-386148.jpeg",
+      "url": "https://www.noviradio.hr",
+      "hosts": [],
+      "dayOfWeek": 4,
+      "startTime": "16:20",
+      "endTime": "16:30"
+    },
     {
       "id": "thu_news_17",
       "name": "Vijesti",
