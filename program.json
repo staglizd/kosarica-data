@@ -196,7 +196,7 @@
       "imageUrl": "https://zadar.events/images/novi/kiki.jpg",
       "url": "https://www.noviradio.hr",
       "hosts": [
-        "Kiki"
+        "Kristina Kresović"
       ],
       "dayOfWeek": 1,
       "startTime": "19:00",
@@ -391,6 +391,19 @@
       "startTime": "18:00",
       "endTime": "18:10"
     },
+	{
+      "id": "tue_prekovremeno",
+      "name": "Prekovremeno uz Kiki",
+      "description": "Večernji program uz glazbu i razgovore.",
+      "imageUrl": "https://zadar.events/images/novi/kiki.jpg",
+      "url": "https://www.noviradio.hr",
+      "hosts": [
+        "Kristina Kresović"
+      ],
+      "dayOfWeek": 2,
+      "startTime": "19:00",
+      "endTime": "21:00"
+    },
     {
       "id": "wed_news_07",
       "name": "Vijesti",
@@ -576,7 +589,7 @@
       "imageUrl": "https://zadar.events/images/novi/kiki.jpg",
       "url": "https://www.noviradio.hr",
       "hosts": [
-        "Kiki"
+        "Kristina Kresović"
       ],
       "dayOfWeek": 3,
       "startTime": "19:00",
@@ -937,19 +950,6 @@
       "dayOfWeek": 5,
       "startTime": "18:00",
       "endTime": "18:10"
-    },
-    {
-      "id": "fri_prekovremeno",
-      "name": "Prekovremeno uz Kiki",
-      "description": "Večernji program uz glazbu i razgovore.",
-      "imageUrl": "https://zadar.events/images/novi/kiki.jpg",
-      "url": "https://www.noviradio.hr",
-      "hosts": [
-        "Kiki"
-      ],
-      "dayOfWeek": 5,
-      "startTime": "19:00",
-      "endTime": "21:00"
     },
     {
       "id": "sat_news_07",
