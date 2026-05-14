@@ -24,6 +24,18 @@
       "startTime": "07:03",
       "endTime": "11:00"
     },
+	{
+      "id": "mon_cep_1",
+      "name": "Prometni čep",
+      "description": "Stanje na cestama.",
+      "imageUrl": "https://zadarskilist.novilist.hr/wp-content/uploads/2023/09/8583626-792x495.jpg",
+      "url": "https://www.noviradio.hr",
+      "hosts": [],
+      "dayOfWeek": 1,
+      "startTime": "07:40",
+      "endTime": "07:43"
+    },
+	
     {
       "id": "mon_news_08",
       "name": "Vijesti",
@@ -67,6 +79,17 @@
       "dayOfWeek": 1,
       "startTime": "10:00",
       "endTime": "10:03"
+    },
+	{
+      "id": "mon_cep_2",
+      "name": "Prometni čep",
+      "description": "Stanje na cestama.",
+      "imageUrl": "https://zadarskilist.novilist.hr/wp-content/uploads/2023/09/8583626-792x495.jpg",
+      "url": "https://www.noviradio.hr",
+      "hosts": [],
+      "dayOfWeek": 1,
+      "startTime": "10:40",
+      "endTime": "10:43"
     },
     {
       "id": "mon_news_11",
@@ -224,6 +247,17 @@
       "startTime": "07:00",
       "endTime": "07:03"
     },
+	{
+      "id": "tue_cep_1",
+      "name": "Prometni čep",
+      "description": "Stanje na cestama.",
+      "imageUrl": "https://zadarskilist.novilist.hr/wp-content/uploads/2023/09/8583626-792x495.jpg",
+      "url": "https://www.noviradio.hr",
+      "hosts": [],
+      "dayOfWeek": 2,
+      "startTime": "07:40",
+      "endTime": "07:43"
+    },
     {
       "id": "tue_pozdrav_suncu",
       "name": "Pozdrav Suncu: Na ivici sa Štorićem",
@@ -269,6 +303,17 @@
       "dayOfWeek": 2,
       "startTime": "10:00",
       "endTime": "10:03"
+    },
+	{
+      "id": "tue_cep_2",
+      "name": "Prometni čep",
+      "description": "Stanje na cestama.",
+      "imageUrl": "https://zadarskilist.novilist.hr/wp-content/uploads/2023/09/8583626-792x495.jpg",
+      "url": "https://www.noviradio.hr",
+      "hosts": [],
+      "dayOfWeek": 2,
+      "startTime": "10:40",
+      "endTime": "10:43"
     },
     {
       "id": "tue_news_11",
@@ -428,6 +473,17 @@
       "startTime": "07:03",
       "endTime": "11:00"
     },
+	{
+      "id": "wed_cep_1",
+      "name": "Prometni čep",
+      "description": "Stanje na cestama.",
+      "imageUrl": "https://zadarskilist.novilist.hr/wp-content/uploads/2023/09/8583626-792x495.jpg",
+      "url": "https://www.noviradio.hr",
+      "hosts": [],
+      "dayOfWeek": 3,
+      "startTime": "07:40",
+      "endTime": "07:43"
+    },
     {
       "id": "wed_news_08",
       "name": "Vijesti",
@@ -460,6 +516,17 @@
       "dayOfWeek": 3,
       "startTime": "10:00",
       "endTime": "10:03"
+    },
+	{
+      "id": "wed_cep_2",
+      "name": "Prometni čep",
+      "description": "Stanje na cestama.",
+      "imageUrl": "https://zadarskilist.novilist.hr/wp-content/uploads/2023/09/8583626-792x495.jpg",
+      "url": "https://www.noviradio.hr",
+      "hosts": [],
+      "dayOfWeek": 3,
+      "startTime": "10:40",
+      "endTime": "10:43"
     },
     {
       "id": "wed_news_11",
@@ -608,6 +675,17 @@
       "startTime": "07:03",
       "endTime": "11:00"
     },
+	{
+      "id": "thu_cep_1",
+      "name": "Prometni čep",
+      "description": "Stanje na cestama.",
+      "imageUrl": "https://zadarskilist.novilist.hr/wp-content/uploads/2023/09/8583626-792x495.jpg",
+      "url": "https://www.noviradio.hr",
+      "hosts": [],
+      "dayOfWeek": 4,
+      "startTime": "07:40",
+      "endTime": "07:43"
+    },
     {
       "id": "thu_news_08",
       "name": "Vijesti",
@@ -640,6 +718,17 @@
       "dayOfWeek": 4,
       "startTime": "10:00",
       "endTime": "10:03"
+    },
+	{
+      "id": "thu_cep_2",
+      "name": "Prometni čep",
+      "description": "Stanje na cestama.",
+      "imageUrl": "https://zadarskilist.novilist.hr/wp-content/uploads/2023/09/8583626-792x495.jpg",
+      "url": "https://www.noviradio.hr",
+      "hosts": [],
+      "dayOfWeek": 4,
+      "startTime": "10:40",
+      "endTime": "10:43"
     },
     {
       "id": "thu_news_11",
@@ -797,6 +886,17 @@
       "startTime": "07:03",
       "endTime": "11:00"
     },
+	{
+      "id": "fri_cep_1",
+      "name": "Prometni čep",
+      "description": "Stanje na cestama.",
+      "imageUrl": "https://zadarskilist.novilist.hr/wp-content/uploads/2023/09/8583626-792x495.jpg",
+      "url": "https://www.noviradio.hr",
+      "hosts": [],
+      "dayOfWeek": 5,
+      "startTime": "07:40",
+      "endTime": "07:43"
+    },
     {
       "id": "fri_news_08",
       "name": "Vijesti",
@@ -829,6 +929,17 @@
       "dayOfWeek": 5,
       "startTime": "10:00",
       "endTime": "10:03"
+    },
+	{
+      "id": "fri_cep_2",
+      "name": "Prometni čep",
+      "description": "Stanje na cestama.",
+      "imageUrl": "https://zadarskilist.novilist.hr/wp-content/uploads/2023/09/8583626-792x495.jpg",
+      "url": "https://www.noviradio.hr",
+      "hosts": [],
+      "dayOfWeek": 5,
+      "startTime": "10:40",
+      "endTime": "10:43"
     },
     {
       "id": "fri_news_11",
@@ -1096,7 +1207,7 @@
     },
     {
       "id": "sun_u_sportskom_srcu",
-      "name": "U sportskom srcu Zadru",
+      "name": "U sportskom srcu Zadra",
       "description": "Sportski program uz vijesti i rezultate.",
       "imageUrl": "https://zadar.events/images/novi/u_sportskom_srcu_zadra.jpg",
       "url": "https://www.noviradio.hr",
@@ -1129,7 +1240,7 @@
     },
     {
       "id": "sun_intervju_tjedna",
-      "name": "Intervju tjedna",
+      "name": "Inventura tjedna",
       "description": "Razgovor sa zanimljivim gostima.",
       "imageUrl": "https://zadar.events/images/novi/jutro_u_troje.jpg",
       "url": "https://www.noviradio.hr",
